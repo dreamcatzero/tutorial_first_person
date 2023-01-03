@@ -1,5 +1,6 @@
 # UE5 - Tutorial -   _first person shooting using blueprint_ 
 
+![firstPerson](https://user-images.githubusercontent.com/121831113/210396357-7e2ca242-7353-40e5-b56c-a89de937f9c2.png)
 
 
 ## **Requirements:**
